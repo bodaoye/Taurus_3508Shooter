@@ -1,0 +1,13 @@
+shooter_single_test\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+shooter_single_test\heap_4.o: D:\software_root\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+shooter_single_test\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+shooter_single_test\heap_4.o: D:\software_root\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+shooter_single_test\heap_4.o: D:\software_root\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+shooter_single_test\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+shooter_single_test\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+shooter_single_test\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+shooter_single_test\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+shooter_single_test\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+shooter_single_test\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+shooter_single_test\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+shooter_single_test\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

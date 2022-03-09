@@ -1,0 +1,15 @@
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+shooter_single_test\event_groups.o: D:\software_root\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+shooter_single_test\event_groups.o: D:\software_root\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+shooter_single_test\event_groups.o: D:\software_root\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+shooter_single_test\event_groups.o: ../Core/Inc/FreeRTOSConfig.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+shooter_single_test\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h
